@@ -1,45 +1,70 @@
-<h3 align="center">Hello there, I'm Tiago 👋</h3>
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/tiago-ant%C3%B4nio-borba-oliveira/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-</h5>
+# <a href="https://www.linkedin.com">Tiago A. B. Oliveira</a> :smiley😇:
+
+<a href="https://github.com/tiago-senai2022">
+  <img align="left" alt="Tiago Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br/>
 <br>
-<p align="center">
-  Hi, I'm Tiago Antônio Borba Oliveira, Computer Engineer & Software Developer from Brazil
-  <br>
-  <br>
-  🎓 I graduated from University of Uberaba (UNIUBE)
-  <br>
-  💻 I love writing code, game development, graphic computing and learn anythings about it
-  <br>
-  🔬 I’m currently working on FACTHUS and SENAI
-  <br>
-  📚 I'm currently specializing in full stack development
-  <br>
-  💬 Ask me about <a href="https://github.com/tiago-senai2022/tiago-senai2022/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: 09112442@senaimgdocente.com.br">09112442@senaimgdocente.com.br</a>
-</p>
 
-<hr>
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps with ᖴᒪᗩᔕK | Tᴇɴꜱᴏʀғʟᴏᴡ ||
+【P】【y】【t】【h】【o】【n】
 
-<p align="center">
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="GIT" height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-  <code><img title="Github" height="25" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
-  <code><img title="Unity" height="25" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
-  <code><img title="Blender" height="25" src="https://image.pngaaa.com/381/4075381-middle.png"></code>
-  <code><img title="3Ds Max" height="25" src="https://seeklogo.com/images/1/3ds-max-logo-51422AA0E7-seeklogo.com.png"></code>
-</p>
+## About ::
+   B.E. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development with flutter and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
 
-<hr>
+   
 
-<a href="https://github.com/tiago-senai2022/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=tiago-senai2022&show_icons=true&theme=gotham"></a>
+## ✌ Communities ✌:
+   - Mentor at [#BuiledWithAI Hackathon](https://hackmakers-35566.web.app/)
+   - Mentor at [HAC(Hack Against Covid)](hac.codezoned.com) also on [github](https://github.com/HAC-2020)
+   - Winner at YUVA Hackathon in Bhavnagar chapter
+
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+  
+## Technologies :fire🔥🔥:
+- Data Analysis with **Python**.
+- Data Science.
+- Python.
+- Machine Learning
+- Deep Learning
+
+
+## Talking about personal stuff ::
+-  My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
+- While Coding, Listening Music and developing useful code.⭐️
+- Just loved to Explore new Tech Stacks.💻
+- Always Willing to help (Altruistic). ✋
+- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
+
+**Languages and Tools:**  
+
+<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>
+
+
+
+<a href="https://github.com/tiago-senai2022">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-senai2022&theme=radical&hide=glsl,python" />
+</a>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=tiago-senai2022&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+
+##  Let's connect :speech_balloon:
+[![Twitter Badge](https://img.shields.io/badge/-@Neel_3056-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/Neel_3056) [![Linkedin Badge](https://img.shields.io/badge/-Neel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gorasiyaneel/)](https://www.linkedin.com/in/gorasiyaneel/) [![Gmail Badge](https://img.shields.io/badge/-mgorasiya1974@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:mgorasiya1974@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@Neel-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/Neel/)](https://www.instagram.com/neelg._.3056/)
+
+
+
+
+⭐️ From [Neel](https://github.com/Neel2904)
+
 
