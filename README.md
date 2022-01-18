@@ -2,8 +2,6 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/tiago-ant%C3%B4nio-borba-oliveira/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/tiago.engcomp" title="Facebook"><img width="25" src="https://i1.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-facebook-transparente3.png"> Facebook</a></code>
-  <code><a href="https://www.instagram.com/tiago.engcomp/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -18,9 +16,9 @@
   <br>
   📚 I'm currently specializing in full stack development
   <br>
-  💬 Ask me about <a href="https://github.com/tiago-oliveira280489/tiago-oliveira280489/issues" title="Issues">Here</a>
+  💬 Ask me about <a href="https://github.com/tiago-senai2022/tiago-senai2022/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: tiago.engcomp89@gmail.com">tiago.engcomp89@gmail.com</a>
+  📫 How to reach me: <a href="mailto: 09112442@senaimgdocente.com.br">09112442@senaimgdocente.com.br</a>
 </p>
 
 <hr>
@@ -43,5 +41,5 @@
 
 <hr>
 
-<a href="https://github.com/tiago-oliveira280489/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=tiago-oliveira280489&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/tiago-senai2022/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=tiago-senai2022&show_icons=true&theme=gotham"></a>
 
